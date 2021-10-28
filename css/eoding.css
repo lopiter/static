@@ -32018,7 +32018,7 @@ video {
   justify-content: center;
   padding-bottom: 1rem;
   width: 85%;
-  height: calc(100% - 63px);
+  height: calc(100%);
   margin: 20px auto;
 }
 
